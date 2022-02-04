@@ -44,7 +44,7 @@ def pass_generation():
 print('Добрый день, ответьте на пару вопросов и мы вам сгенерируем уникальный пароль!')
 password = pass_question()
 pass_generation()
-
+.
 
 
         
